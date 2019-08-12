@@ -7,4 +7,4 @@ Pokud se skutečně chcete naučit programovat v pythonu, doporučuju nahlédnou
 * [Python documentation](https://docs.python.org/3/library/functions.html): dokumentace k python3.
 * [Stack Overflow](https://stackoverflow.com/): jistě nejste první, kdo narazil na tento *bug*.
 * [PEP 8](https://www.python.org/dev/peps/pep-0008/): dokumentace k tradičním konvencím programování v pythonu3. Ze začátku asi zbytečné, ale později se určitě hodí si něco málo přečíst.
-* [Pyhon.cz](https://python.cz/zacatecnici/): Shrnutí zdrojů tvořené českou Python komunitou
+* [Python.cz](https://python.cz/zacatecnici/): Shrnutí zdrojů tvořené českou Python komunitou
