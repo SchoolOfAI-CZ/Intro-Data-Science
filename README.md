@@ -1,4 +1,4 @@
-kteří se zajímají o oblasti AI (umělé inteligence) / ML (strojové učení) / Data Science (datová věda) / Ostatní technologie# Intro do Datové vědy pro PyData Prague a širší veřejnost
+# Intro do datové vědy
 
 Materiály pro meetup PyData Prague co se koná 9.9., bude se i nadále rozšiřovat pro vzdělávání i ostatních zájemců a širší veřejnosti. 
 
