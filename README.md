@@ -12,4 +12,6 @@ Tato repozitář byla vytvořena společně s Jakubem Dostálem z firmy Abradata
 
 # Doporučené zdroje (AJ)
 
-[Learn Data Science in 3 Months by Siraj Raval](https://github.com/llSourcell/Learn_Data_Science_in_3_Months): Zde je srozumitelný návod jak se naučit vše potřebné k datové vědě
+[Learn Data Science in 3 Months by Siraj Raval](https://github.com/llSourcell/Learn_Data_Science_in_3_Months): Srozumitelný návod jak se naučit vše potřebné k datové vědě
+
+[Data Lit by School of AI](https://www.theschool.ai/courses/data-lit/): Kurz na datovou vědu pro začátečníky tvořený naší neziskovkou
