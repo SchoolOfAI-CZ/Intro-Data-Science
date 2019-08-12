@@ -9,3 +9,7 @@ My jsme School of AI Česko (zatím je pobočka jen v Olomouci). School of AI je
 # Kolaborace
 
 Tato repozitář byla vytvořena společně s Jakubem Dostálem z firmy Abradatas (více na www.abradatas.com)
+
+# Doporučené zdroje (AJ)
+
+*[Learn Data Science in 3 Months by Siraj Raval](https://github.com/llSourcell/Learn_Data_Science_in_3_Months): Zde je srozumitelný návod jak se naučit vše potřebné k datové vědě
