@@ -1,6 +1,6 @@
 # Vědecké balíčky
 
-*Vsechny zde probirane balicky jsou velmi obsahle, proto zde ukazeme jen nekolik zakladnich vlastnosti a metod prace s nimi. Jejich hlubsi studium je vzdy zavisle na potrebach uživatele.*
+*Všechny zde probírané balíčky jsou velmi obsáhle, proto zde ukážeme jen nekolik základních vlastností a metod práce s nimi. Jejich hlubší studium je vždy zavislé na potřebách uživatele.*
 
 ## Základní balíčky
 
