@@ -1,4 +1,4 @@
-# Vědecké balíčku
+# Vědecké balíčky
 
 *Vsechny zde probirane balicky jsou velmi obsahle, proto zde ukazeme jen nekolik zakladnich vlastnosti a metod prace s nimi. Jejich hlubsi studium je vzdy zavisle na potrebach uživatele.*
 
