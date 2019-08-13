@@ -4,7 +4,7 @@ Materiály pro začátečníky za cílem se naučit pracovat s daty.
 
 ## Kdo jsme?
 
-Jsme **School of AI Česko**, neziskové uskupení zájemnů o AI založené *Sirajem Ravalem* se základnou v San Franciscu
+Jsme **School of AI**, neziskové uskupení zájemnů o AI založené *Sirajem Ravalem* se základnou v San Franciscu
 (Kalifornie, USA). Cílem této skupiny je najít podobně smýšlející lidi, kteří se zajímají o oblast AI (umělé
 inteligence), ML (strojového učení), Data Science (datové vědy) a obdobné technologie. Navzájem se vzdělávat, sdílet
 zajímavé poznatky a pomáhat veřejnosti využitím pokroků ve vědě.
