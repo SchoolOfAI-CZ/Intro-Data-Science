@@ -1,17 +1,23 @@
-# Intro do datové vědy
+# Úvod do práce s daty v pythonu
 
-Materiály pro meetup PyData Prague co se koná 9.9., bude se i nadále rozšiřovat pro vzdělávání i ostatních zájemců a širší veřejnosti. 
+Materiály pro PyData Prague, neziskovou vzdělávací organizaci, která rozšiřuje obzory zájemců o `python` a širší
+veřejnost.
 
-# Kdo jsme my?
+## Kdo jsme?
 
-My jsme School of AI Česko (zatím je pobočka jen v Olomouci). School of AI je neziskovka založena Sirajem Ravalem se základnou v San Franciscu, Kalifornie, USA. Cílem této skupiny je najít podobně smýšlející lidi, kteří se zajímají o oblasti AI (umělé inteligence) / ML (strojové učení) / Data Science (datová věda) / Ostatní technologie a navzájem se vzdělávat, sdílet zajímavé poznatky a pomáhat veřejnosti využitím technologie. Každý je vítán. Najdeme místa konání schůzek a pravidelně se budeme scházet k diskusi, konaní přednášek a nebo vyučování témat souvisejících s AI / ML / ... Více na www.theschool.ai (v angličtině).
+Jsme **School of AI Česko**, neziskové uskupení zájemnů o AI založené *Sirajem Ravalem* se základnou v San Franciscu
+(Kalifornie, USA). Cílem této skupiny je najít podobně smýšlející lidi, kteří se zajímají o oblast AI (umělé
+inteligence), ML (strojového učení), Data Science (datové vědy) a obdobné technologie. Navzájem se vzdělávat, sdílet
+zajímavé poznatky a pomáhat veřejnosti využitím pokroků ve vědě.
 
-# Kolaborace
+<!-- Každý je vítán. Najdeme místa konání schůzek a pravidelně se budeme scházet k diskusi, konaní přednášek a nebo vyučování témat souvisejících s AI / ML / ... Více na [www.theschool.ai](www.theschool.ai) (v angličtině). -->
 
-Tato repozitář byla vytvořena společně s Jakubem Dostálem z firmy Abradatas (více na www.abradatas.com)
+## Kolaborace
 
-# Doporučené zdroje (AJ)
+Tento repozitář byl vytvořen a konzultován s odborníky ze společnosti [Abradatas](www.abradatas.cs) – českou firmu
+aplikovaných matematiků tvořící ML, DS a optimalizační řešení problémů napříč obory.
 
-[Learn Data Science in 3 Months - Siraj Raval](https://github.com/llSourcell/Learn_Data_Science_in_3_Months): Srozumitelný návod jak se naučit vše potřebné k datové vědě
+## Další doporučené zdroje (AJ)
 
-[Data Lit - School of AI](https://www.theschool.ai/courses/data-lit/): Kurz na datovou vědu pro začátečníky tvořený naší neziskovkou
+– [Learn Data Science in 3 Months - Siraj Raval](https://github.com/llSourcell/Learn_Data_Science_in_3_Months): Srozumitelný návod jak se naučit vše potřebné k datové vědě
+– [Data Lit - School of AI](https://www.theschool.ai/courses/data-lit/): Kurz na datovou vědu pro začátečníky tvořený naší neziskovkou
