@@ -1,7 +1,6 @@
 # Úvod do práce s daty v pythonu
 
-Materiály pro PyData Prague, neziskovou vzdělávací organizaci, která rozšiřuje obzory zájemců o `python` a širší
-veřejnost.
+Materiály pro začátečníky za cílem se naučit pracovat s daty.
 
 ## Kdo jsme?
 
